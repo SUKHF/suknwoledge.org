@@ -2152,7 +2152,7 @@ textarea.w-select {
 }
 
 :root {
-    --floral-white: #151414;
+    --floral-white: #053c61;
     --light-blue: #ffffff;
     --background-1: #ddc6a4;
     --honeydew\<deleted\|variable-5512e545\>: #91e2ac;
@@ -4578,8 +4578,8 @@ figcaption {
 .navar {
     z-index: 999;
     background-color: rgba(0, 0, 0, 0);
-    padding-left: 15px;
-    padding-right: 15px;
+    /* padding-left: 15px;
+    padding-right: 15px; */
     position: fixed;
     top: 0%;
     bottom: auto;
@@ -5294,8 +5294,8 @@ figcaption {
         background-color: var(--light-blue);
     }
     .navar {
-        padding-top: 16px;
-        padding-bottom: 16px;
+        /* padding-top: 16px;
+        padding-bottom: 16px; */
     }
     .line-wrapper {
         align-items: center;

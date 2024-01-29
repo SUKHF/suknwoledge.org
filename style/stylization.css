@@ -2153,7 +2153,7 @@ textarea.w-select {
 }
 
 :root {
-    --floral-white: #151414;
+    --floral-white: #053c61;
     --light-blue: #ffffff;
     /* --light-blue: #e0f1f3; */
     --background-1: #ddc6a4;
@@ -3468,7 +3468,7 @@ figcaption {
 }
 
 .section.gray {
-    background-color: #242222;
+    /* background-color: #242222; */
     padding-top: 90px;
     padding-bottom: 100px;
     border-radius: 30px;
@@ -4581,8 +4581,8 @@ figcaption {
 .navar {
     z-index: 999;
     background-color: rgba(0, 0, 0, 0);
-    padding-left: 15px;
-    padding-right: 15px;
+    /* padding-left: 15px;
+    padding-right: 15px; */
     position: fixed;
     top: 0%;
     bottom: auto;
@@ -5027,7 +5027,7 @@ figcaption {
     z-index: 1;
     width: 100%;
     height: 150px;
-    border: 1px solid #3b3b3b;
+    border: 1px solid #ffffff15;
     flex: 0 33.333%;
     justify-content: center;
     align-items: center;
@@ -5298,8 +5298,8 @@ figcaption {
         background-color: var(--light-blue);
     }
     .navar {
-        padding-top: 16px;
-        padding-bottom: 16px;
+        /* padding-top: 16px;
+        padding-bottom: 16px; */
     }
     .line-wrapper {
         align-items: center;
